@@ -19,7 +19,7 @@ http://localhost:5173/
 
 ## User Accounts
 ---
-After following their guide at https://pocketbase.io/docs/ and creating your first superuser, be create your first user within the users collection. This is the account you use to login with on the /frontend.
+After following their guide at https://pocketbase.io/docs/ and creating your first superuser, it's time create your first user within the users collection. This is the account you use to login with on the /frontend. Or, register an account on the frontend, it should register the new user perfectly :).
 
 That's it. Get developing.
 
