@@ -9,8 +9,10 @@ Download the compressed package here, extract to your desired project folder und
 Install extracted pocketbase.exe in /backend
 
 ## Running the frontend
--open the project in your terminal of choice
+open the project in your terminal of choice.
+
 npm install
+
 npm run dev
 
 http://localhost:5173/
