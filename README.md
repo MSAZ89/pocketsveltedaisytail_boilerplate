@@ -4,7 +4,7 @@ Frontend boilerplate for a pocketbase project using sveltekit with typescript, t
 
 ## Downloading
 ---
-Download the compressed package here, extra to your desired project folder under /frontend
+Download the compressed package here, extract to your desired project folder under /frontend
 
 Install extracted pocketbase.exe in /backend
 
